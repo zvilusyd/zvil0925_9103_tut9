@@ -17,7 +17,15 @@ This is my first local change to the repo!
     - TwopointOne
 
 [Google.com](http://www.google.com)
-![An Image of a Cat](http:placecats.com/200/300)
+![An Image of a Cat](http://placecats.com/200/300)
 
 ![Mona Lisa Pic](readmeImages/mona_lisa.jpg)
 
+## CODEBLOCKS
+```
+function helloWorld(){
+    console.log("Hello, world!");
+}
+```
+## BLOCKQUOTES
+> This is a block quote
